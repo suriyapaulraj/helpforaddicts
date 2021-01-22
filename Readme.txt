@@ -1,6 +1,2 @@
-Thanks for downloading this template!
+After downloading unzip the file and then open the "index.html" to view the website
 
-Template Name: Medicio
-Template URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
